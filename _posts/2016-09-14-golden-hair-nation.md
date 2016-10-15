@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-10-15T16:42:11.667Z'
+datePublished: '2016-10-15T16:47:36.952Z'
 sourcePath: _posts/2016-09-14-golden-hair-nation.md
 inFeed: false
 hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-10-15T16:42:10.952Z'
+dateModified: '2016-10-15T16:47:36.376Z'
 title: ''
 publisher: {}
 description: >-
@@ -34,6 +34,8 @@ _**HAIR of the GOLDEN SUN** was formed form the very existence of you. So let ou
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/92967b762ab43be51f2f61df524b417b6bcab787.png)
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyVUU1Lw0AQvfdXjHu2XRUUkaaXCr0oVKvYW9jdTJLR7Ae7E9P8e7ctIooIHgbeHN4Xb177aEEZJu8K0TKHdCPlMAyzoMagupnxVpqGppqcHFAnEwVY5NZXhQg-sQBWsUEuRMk-iMVkTi70DDwGzIJUVegEOGXzZ2wl4F11fcZlmu5MR-btb0qbLbAqdc_sXUlf_NXt_fbx5eHi8mq7uf6pQVY1KCBF81snr1_RcDpUQ1c-byRJzW5_2Wh0flguy7vVrKFagPaxwliIs89EqdeWcm3V5c5rNa5VB1N4ahGSqjGeAqpEGGFQI7CHbAnedeTw5JDSNkfmN-V_BM0DyEA77I7xBqq4LcS5gBapaXkPs43cz7qYfACbxKKb" height="244" style=""></iframe>
+
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJx1UM1unDAYfBXkO2sWWGCrkCqKokRVFK2SU0_IP5_BibFd24TdPH0gOO2pJ1sz882M5sozJ21IvGMtGkKw_gfG8zzvmBlH0AwsuSxv8CuA33P8je9ePUo4CSSNinSEMBjeIuaAy5Ay4vi3QhHdott4mZ7iwWmB0_r3rz9_jTSoVBEKqkUvE12rUUiezBwFHLa20ix2j9N5ctJMPnkg0iV35wDaL4xPiOYbtlSAxDrDJxZ8Ek00GaFF90Zx0JvsiayOkZYj6eHfFMTKXbhYEMaN2wQZXv_4PKnHQ4OFBMU93h_rrNrXFabKUHwsyzrP8rzJhEj7r6RuWJI6_ZXUKdOb3avtf77Bpc1EVmeloHnRZDkjBamO_FBUZc72jShrCscKCkKb2I9KpaTuU8K5A-9bFNwEkfODtPZ_JCPL9iolIoBrURHRtQGyb10AHzrFn93doORHf3im8430hwd_0jcCXV_hbfnrTz9Awm4" height="244" style=""></iframe>
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxNkb1uwzAMhPc8haDd0dLFhWWgQ9EO6Q-QAukWsBLryLZEQaKCJk9fxykaTxSOxwM_qvmm5AUYdhS0VCcqqcqYjjgVZ7EyZFEKj3wgq-X72_ZDtishmmySizy9hMjJaHlgjvleKXNAM1DhdebJgGtD_qb1WQozQs5aXtvVV2GmIOccCwzVgCct47Af3RH3n5uHzUu0rj-XIyNsfnaPdz0P24UfPJXAWtZ1vVADeNTyiUaLQTyDS-IVLoQLi8Urwsy9c7ZDXnSdhw5vVAsY5ztlyRSPgefMfzzlIQ3IcQSD6xi6RdxIBsYpDwrTfL8__ezifGEtORW8DDTqula7atTla9pfdDGK9A" height="244" style=""></iframe>
 
