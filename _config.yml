@@ -49,6 +49,9 @@ navigation:
   - name: Complimentary Shipping
     id: abe85c0f-059f-4e9c-b998-1db532672f0b
     type: content
+  - name: 'Shop '
+    url: 'https://goldenhairnation-com.3dcartstores.com'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf3641de-ae8c-4733-a33a-cd6bf98f60eb.jpg
 collections:
