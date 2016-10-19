@@ -22,12 +22,12 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://goldenhairnation-com.3dcartstores.com'
 title: Welcome to Golden Hair Nation - Exclusively for You
-datePublished: '2016-10-19T03:26:46.244Z'
-dateModified: '2016-10-19T03:26:15.062Z'
+datePublished: '2016-10-19T03:30:54.763Z'
+dateModified: '2016-10-19T03:30:54.401Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2016-10-19-welcome-to-golden-hair-nation-exclusively-for-you.md
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
