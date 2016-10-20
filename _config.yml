@@ -49,6 +49,9 @@ navigation:
   - name: COMPLIMENTARY SHIPPING
     id: b9a04671-5c55-4557-8764-3fcc7a3630fe
     type: content
+  - name: COMPLIMENTARY SHIPPING
+    id: 0dae3a12-18e8-4e7f-8deb-9d8c61921cb2
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf3641de-ae8c-4733-a33a-cd6bf98f60eb.jpg
 collections:
