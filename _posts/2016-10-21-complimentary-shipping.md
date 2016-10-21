@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-10-21T05:07:42.079Z'
+datePublished: '2016-10-21T05:08:05.535Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-10-21T05:07:35.613Z'
+dateModified: '2016-10-21T05:08:05.098Z'
 title: COMPLIMENTARY SHIPPING
 publisher: {}
 description: ''
-starred: false
 sourcePath: _posts/2016-10-21-complimentary-shipping.md
+starred: false
 _context: 'http://schema.org'
 _type: Article
 
