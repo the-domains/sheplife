@@ -1,18 +1,17 @@
 ---
-title: COMPLIMENTARY SHIPPING
-datePublished: '2016-10-21T00:36:21.820Z'
-dateModified: '2016-10-21T00:36:11.098Z'
-publisher: {}
-author: []
-inFeed: true
-hasPage: true
-description: ''
-via: {}
-starred: false
+datePublished: '2016-10-21T04:56:18.493Z'
 sourcePath: _posts/2016-10-20-complimentary-shipping.md
-url: complimentary-shipping/index.html
-_type: Article
+inFeed: true
+hasPage: false
+author: []
+via: {}
+dateModified: '2016-10-21T04:56:17.915Z'
+title: COMPLIMENTARY SHIPPING
+publisher: {}
+description: ''
+starred: false
 _context: 'http://schema.org'
+_type: Article
 
 ---
 # COMPLIMENTARY SHIPPING
