@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-10-22T21:46:52.022Z'
+datePublished: '2016-10-22T22:04:58.655Z'
 sourcePath: _posts/2016-10-09-customer-service.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-10-22T21:46:51.208Z'
+dateModified: '2016-10-22T22:04:57.957Z'
 title: Customer Service
 publisher: {}
 description: >-
@@ -24,3 +24,4 @@ _Our support team operates seven days a week,**24 hours **a day. We always guara
 Email us: goldenhairnation@gmail.com
 
 THANK YOU FOR SHOPPING WITH US. IT'S OUR PLEASURE SERVING YOU!
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ee7182c0-7e4f-4421-bb5b-804bb8ca3c34.png)
