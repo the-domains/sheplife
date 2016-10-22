@@ -1,15 +1,13 @@
 ---
-datePublished: '2016-10-22T22:07:29.050Z'
+datePublished: '2016-10-22T22:10:39.237Z'
 sourcePath: _posts/2016-10-09-customer-service.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-10-22T22:07:28.557Z'
+dateModified: '2016-10-22T22:10:38.604Z'
 title: Customer Service
 publisher: {}
-description: >-
-  Our support team operates seven days a week, 24 hours a day. We always
-  guarantee a response within 24 hours.
+description: 'Email us: goldenhairnation@gmail.com'
 starred: false
 _context: 'http://schema.org'
 _type: Article
@@ -19,7 +17,7 @@ _type: Article
 
 # _**Customer Service**_
 
-_Our support team operates seven days a week,**24 hours **a day. We always guarantee a response within **24 hours**_.
+### _Our support team operates seven days a week,**24 hours **a day. We always guarantee a response within **24 hours**_.
 
 Email us: goldenhairnation@gmail.com
 
