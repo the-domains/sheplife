@@ -40,9 +40,6 @@ navigation:
   - name: RETURN POLICY
     id: 5554cb61-df9d-4a9b-9bc2-66eacfad54a8
     type: content
-  - name: HAIR of the GOLDEN SUN
-    id: c3565e2a-32bc-4f88-9209-e9a087d83f59
-    type: content
   - name: 'GALLERIA '
     url: 'https://goldenhairnation-com.3dcartstores.com'
     type: external
