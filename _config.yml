@@ -43,6 +43,9 @@ navigation:
   - name: 'GALLERIA '
     url: 'https://goldenhairnation-com.3dcartstores.com'
     type: external
+  - name: HAIR of the GOLDEN SUN
+    id: c3565e2a-32bc-4f88-9209-e9a087d83f59
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf3641de-ae8c-4733-a33a-cd6bf98f60eb.jpg
 collections:
