@@ -63,7 +63,4 @@ collections:
 title: GOLDEN HAIR NATION
 content: []
 description: Exclusively for You
-purpose:
-  - type: contact
-    url: 'mailto:goldenhairnation@gmail.com'
-    label: Email Us
+purpose: []
