@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-10-22T21:42:17.475Z'
+datePublished: '2016-10-22T21:46:52.022Z'
 sourcePath: _posts/2016-10-09-customer-service.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-10-22T21:42:16.938Z'
+dateModified: '2016-10-22T21:46:51.208Z'
 title: Customer Service
 publisher: {}
 description: >-
