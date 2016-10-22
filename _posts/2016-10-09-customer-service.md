@@ -1,13 +1,13 @@
 ---
-datePublished: '2016-10-22T22:10:39.237Z'
+datePublished: '2016-10-22T22:12:13.867Z'
 sourcePath: _posts/2016-10-09-customer-service.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-10-22T22:10:38.604Z'
+dateModified: '2016-10-22T22:12:13.425Z'
 title: Customer Service
 publisher: {}
-description: 'Email us: goldenhairnation@gmail.com'
+description: THANK YOU FOR SHOPPING WITH US. IT’S OUR PLEASURE SERVING YOU!
 starred: false
 _context: 'http://schema.org'
 _type: Article
@@ -17,9 +17,9 @@ _type: Article
 
 # _**Customer Service**_
 
-### _Our support team operates seven days a week,**24 hours **a day. We always guarantee a response within **24 hours**_.
+## _Our support team operates seven days a week,**24 hours **a day. We always guarantee a response within **24 hours**_.
 
-Email us: goldenhairnation@gmail.com
+## Email us: goldenhairnation@gmail.com
 
 THANK YOU FOR SHOPPING WITH US. IT'S OUR PLEASURE SERVING YOU!
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ee7182c0-7e4f-4421-bb5b-804bb8ca3c34.png)
