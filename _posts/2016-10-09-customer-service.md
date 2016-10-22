@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-10-22T22:39:14.410Z'
+datePublished: '2016-10-22T22:58:08.752Z'
 sourcePath: _posts/2016-10-09-customer-service.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-10-22T22:39:13.982Z'
+dateModified: '2016-10-22T22:58:08.271Z'
 title: Customer Service
 publisher: {}
 description: THANK YOU FOR SHOPPING WITH US. IT’S OUR PLEASURE SERVING YOU!
@@ -22,5 +22,6 @@ _type: Article
 ### Email us: goldenhairnation@gmail.com
 
 THANK YOU FOR SHOPPING WITH US. IT'S OUR PLEASURE SERVING YOU!
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/55c5f3b64cf87ab9f79142c1ae5539615af10880.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e9582abc-84cc-4774-bfd6-29c878366183.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ee7182c0-7e4f-4421-bb5b-804bb8ca3c34.png)
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/dbe0757c6a47d64a3d4dc2c9516bc54a/croprotate.png?cropheight=215&cropwidth=215&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fad53e638-e830-4475-b662-e32aa4b087a8.png&x=5&y=5)
