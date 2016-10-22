@@ -63,4 +63,7 @@ collections:
 title: GOLDEN HAIR NATION
 content: []
 description: Exclusively for You
-purpose: []
+purpose:
+  - type: external
+    url: 'https://goldenhairnation-com.3dcartstores.com'
+    label: Shop Now
