@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-10-21T05:09:30.495Z'
+datePublished: '2016-10-22T19:12:35.652Z'
 sourcePath: _posts/2016-10-19-welcome-to-golden-hair-nation-exclusively-for-you.md
 inFeed: false
 hasPage: true
@@ -17,11 +17,11 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-10-21T05:09:29.490Z'
+dateModified: '2016-10-22T19:12:34.943Z'
 title: GALLERIA
 app_links: []
 publisher:
-  url: 'http://goldenhairnation-com.3dcartstores.com'
+  url: 'https://goldenhairnation-com.3dcartstores.com'
   name: 3dcartstores
   favicon: null
   domain: goldenhairnation-com.3dcartstores.com
