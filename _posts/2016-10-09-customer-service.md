@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-10-23T02:14:49.805Z'
+datePublished: '2016-10-23T04:04:03.165Z'
 sourcePath: _posts/2016-10-09-customer-service.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-10-23T02:14:49.446Z'
+dateModified: '2016-10-23T04:04:02.334Z'
 title: Customer Service
 publisher: {}
 description: THANK YOU FOR SHOPPING WITH US. IT’S OUR PLEASURE SERVING YOU!
