@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-23T01:01:02.736Z'
+datePublished: '2016-10-23T01:20:08.880Z'
 sourcePath: _posts/2016-10-21-complimentary-shipping.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-23T00:59:40.684Z'
+dateModified: '2016-10-23T01:20:08.493Z'
 title: Complimentary Shipping
 publisher: {}
 description: >-
