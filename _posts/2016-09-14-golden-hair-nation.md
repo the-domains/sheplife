@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-10-22T21:55:50.207Z'
+datePublished: '2016-10-23T01:28:33.662Z'
 sourcePath: _posts/2016-09-14-golden-hair-nation.md
 inFeed: false
 hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-10-22T21:55:49.070Z'
+dateModified: '2016-10-23T01:28:31.708Z'
 title: ''
 publisher: {}
 description: >-
