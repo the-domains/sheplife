@@ -1,18 +1,18 @@
 ---
-datePublished: '2016-10-23T01:28:33.676Z'
-sourcePath: _posts/2016-09-18-exchange-policy.md
+title: EXCHANGE POLICY
+datePublished: '2016-11-05T23:44:38.450Z'
+dateModified: '2016-11-05T23:44:37.011Z'
+publisher: {}
+author: []
 inFeed: false
 hasPage: true
-author: []
-via: {}
-dateModified: '2016-10-23T01:28:31.708Z'
-title: EXCHANGE POLICY
-publisher: {}
 description: >-
   We are pleased to accommodate returns and exchanges within 30 days on all sets
   that have not been opened, worn, or tampered with. Please e-mail us @
   goldenhairnation@gmail.com to initiate your exchange.
+via: {}
 starred: false
+sourcePath: _posts/2016-09-18-exchange-policy.md
 url: exchangepolicy/index.html
 _type: Blurb
 
@@ -52,5 +52,3 @@ _Human hair extensions are considered a hygienic product. We take matters of hyg
 ### 8\. _**HOW MAY I CONTACT YOU?**_
 
 _You may contact us by e-mail @ **goldenhairnation@gmail.com**. Our support team operates seven days a week, **24 hours a day**. We always guarantee a response within**24 hours**_.
-
-<button data-role="cta" style="">Email Us</button>
