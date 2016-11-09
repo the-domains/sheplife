@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-10-23T01:28:33.651Z'
+datePublished: '2016-11-09T19:43:02.299Z'
 sourcePath: _posts/2016-10-19-welcome-to-golden-hair-nation-exclusively-for-you.md
 inFeed: false
 hasPage: true
@@ -17,7 +17,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-10-23T01:28:31.708Z'
+dateModified: '2016-11-09T19:43:01.253Z'
 title: GALLERIA
 app_links: []
 publisher:
