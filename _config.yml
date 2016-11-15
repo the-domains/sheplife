@@ -1,35 +1,42 @@
+name: GOLDEN HAIR NATION
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf3641de-ae8c-4733-a33a-cd6bf98f60eb.jpg
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ea6b05cf-f3c6-421b-809b-d98959cb131d.jpg
+layout_spectrum: 0.8157895
 typography_spectrum: 1
-content_rating:
-  adult: false
+analytics:
+  facebook: '935111506634536'
+  google: UA-83754755-1
+  twitter: '@goldenhairnat '
+opengraph:
+  type: '@goldenhairnat '
+  appId: '1047643851958222'
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/cfcb59a6-273a-4450-bba0-d6f160db1249.jpg
 color:
-  saturation: 0.4425620657857507
-  brandStrength: 1
-  rhythmicContrast: 0.2381896281149238
   brandColors:
     - '#987E33'
     - '#E8D35C'
     - '#1D100A'
     - '#EA766B'
     - '#D43985'
+  brandStrength: 1
   lightness: 0.1810015391092747
-github: true
-opengraph:
-  type: '@goldenhairnat '
-  appId: '1047643851958222'
-  image: >-
-    https://the-grid-user-content.s3-us-west-2.amazonaws.com/cfcb59a6-273a-4450-bba0-d6f160db1249.jpg
-layout_spectrum: 0.8157895
-analytics:
-  twitter: '@goldenhairnat '
-  facebook: '935111506634536'
-  google: UA-83754755-1
+  saturation: 0.4425620657857507
+  rhythmicContrast: 0.2381896281149238
+purpose:
+  - type: external
+    url: 'https://goldenhairnation-com.3dcartstores.com'
+    label: GALLERIA
+title: GOLDEN HAIR NATION
+description: Rise of the Beautiful. Join the Revolution.
 author:
   name: '© 2016 Hair of the Golden Sun, LLC. '
   url: 'http://goldenhairnation.com/'
   email: goldenhairnation@gmail.com
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ea6b05cf-f3c6-421b-809b-d98959cb131d.jpg
-name: GOLDEN HAIR NATION
+content_rating:
+  adult: false
 navigation:
   - name: ABOUT US
     id: 813d881b-0fc9-4ded-bed2-05be6cf905f9
@@ -40,33 +47,10 @@ navigation:
   - name: RETURN POLICY
     id: 5554cb61-df9d-4a9b-9bc2-66eacfad54a8
     type: content
-  - name: 'GALLERIA '
-    url: 'https://goldenhairnation-com.3dcartstores.com'
-    type: external
   - name: HAIR of the GOLDEN SUN
     id: c3565e2a-32bc-4f88-9209-e9a087d83f59
     type: content
   - name: ' AFFILIATE PROGRAM'
     id: bc7d04e4-abcb-4274-9b18-206ddbd7033e
     type: content
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf3641de-ae8c-4733-a33a-cd6bf98f60eb.jpg
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-title: GOLDEN HAIR NATION
-content: []
-description: Rise of the Beautiful. Join the Revolution.
-purpose:
-  - type: external
-    url: 'https://goldenhairnation-com.3dcartstores.com'
-    label: GALLERIA
+github: true
