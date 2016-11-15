@@ -1,8 +1,5 @@
 ---
-datePublished: '2016-11-14T20:06:04.760Z'
-sourcePath: _posts/2016-10-19-welcome-to-golden-hair-nation-exclusively-for-you.md
-inFeed: false
-hasPage: true
+inLanguage: en
 keywords:
   - demo
   - leather
@@ -14,23 +11,23 @@ keywords:
   - shop
   - rfid
   - solid
-related: []
-author: []
-via: {}
-dateModified: '2016-11-14T20:06:04.241Z'
 title: GALLERIA
-app_links: []
+datePublished: '2016-11-15T16:03:49.533Z'
+dateModified: '2016-11-15T16:03:38.266Z'
 publisher:
-  url: 'https://goldenhairnation-com.3dcartstores.com'
   name: 3dcartstores
-  favicon: null
   domain: goldenhairnation-com.3dcartstores.com
+  url: 'https://store.goldenhairnation.com'
+author: []
+inFeed: false
+hasPage: true
 description: ''
-inLanguage: en
+via: {}
 starred: false
+sourcePath: _posts/2016-10-19-welcome-to-golden-hair-nation-exclusively-for-you.md
 url: welcome-to-golden-hair-nation-exclusively-for-you/index.html
-_context: 'http://schema.org'
 _type: MediaObject
+_context: 'http://schema.org'
 
 ---
 <article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/c452d57cd26b6a95a88f7c87d571e3b4/noop.jpg?input=http%3A%2F%2Fgoldenhairnation-com.3dcartstores.com%2Fassets%2Fimages%2Fgolden%2520hair%2520nation%2520logo.jpg" /><h1>GALLERIA</h1></article>
