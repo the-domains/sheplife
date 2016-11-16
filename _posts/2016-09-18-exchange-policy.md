@@ -1,7 +1,7 @@
 ---
 title: EXCHANGE POLICY
-datePublished: '2016-11-16T17:43:17.267Z'
-dateModified: '2016-11-16T17:42:49.915Z'
+datePublished: '2016-11-16T17:47:58.848Z'
+dateModified: '2016-11-16T17:47:52.380Z'
 publisher: {}
 author: []
 inFeed: false
@@ -16,7 +16,7 @@ url: exchangepolicy/index.html
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5313072d-a2ae-4f5a-8710-c7f2396cae98.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ef43ca4b-9af4-493f-a41a-3eca50135b3d.jpg)
 
 ## **EXCHANGE POLICY**
 
