@@ -1,15 +1,14 @@
 ---
 title: EXCHANGE POLICY
-datePublished: '2016-11-16T14:50:25.270Z'
-dateModified: '2016-11-16T14:50:23.732Z'
+datePublished: '2016-11-16T17:43:17.267Z'
+dateModified: '2016-11-16T17:42:49.915Z'
 publisher: {}
 author: []
 inFeed: false
 hasPage: true
 description: >-
-  We are pleased to accommodate returns and exchanges within 15 days on all sets
-  that have not been opened, worn, or tampered with. Please e-mail us @
-  goldenhairnation@gmail.com to initiate your exchange.
+  We are pleased to accommodate Exchanges within 15 days on all sets that have
+  not been opened, worn, or tampered with.
 via: {}
 starred: false
 sourcePath: _posts/2016-09-18-exchange-policy.md
@@ -17,17 +16,19 @@ url: exchangepolicy/index.html
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/efa21156-969b-48a5-a22d-0b1c2a6e2c9d.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5313072d-a2ae-4f5a-8710-c7f2396cae98.jpg)
 
 ## **EXCHANGE POLICY**
 
-_We are pleased to accommodate returns and exchanges within**15 days** on all sets that have not been opened, worn, or tampered with. Please e-mail us @ **goldenhairnation@gmail.com** to initiate your exchange_.
+_We are pleased to accommodate **Exchanges** within**15 days** on all sets that have not been opened, worn, or tampered with._
+
+_Please e-mail us @ **goldenhairnation@gmail.com** to initiate your exchange_.
 
 Here are some **FAQ** in regards to our exchange policy:
 
 ### 1\. _**CAN I EXCHANGE MY ORDER?**_
 
-_Yes. We are happy to accept your set back for an exchange within **30 days**, as long as it has not been **opened, worn, or tampered with**._
+_Yes. We are happy to accept your set back for an exchange within **15 days**, as long as it has not been **opened, worn, or tampered with**._
 
 ### 2\. _**WHAT IS THE EXCHANGE PERIOD?**_
 
@@ -37,13 +38,13 @@ _We will provide an exchange on unopened hair extensions within industry leading
 
 _**Yes**, you are responsible for all exchange shipping costs. We recommend that you send your set back with a tracking option, we will not be responsible for lost packages_.
 
-### 4\. _**HOW CAN I EXCHANGE MY EXTENSIONS FOR THE RIGHT COLOR?**_
+### 4\. _**HOW CAN I EXCHANGE MY EXTENSIONS FOR THE RIGHT COLOR or LENGTH?**_
 
-_Easy: e-mail us @ **goldenhairnation@gmail.com** and let us know your order \#, as well as which shade you'd like to exchange for. We will then provide you with instructions and a return address to ship your set back for an exchange. All items will be inspected to see if you qualify for an exchange, as opened merchandise will not be exchanged_.
+_Easy: e-mail us @ **goldenhairnation@gmail.com** and let us know your order \#, as well as which shade or length you'd like to exchange for. We will then provide you with instructions and a return address to ship your set back for an exchange. All items will be inspected to see if you qualify for an exchange, as opened merchandise will not be exchanged_.
 
 ### 5\. _**WHEN WILL I RECEIVE MY EXCHANGE?**_
 
-_We will send you the different color hair extensions after we have received, inspected and confirmed that the returned hair extensions were not opened. It takes **1-2 business days **to process all orders from the moment we place it in our system. US orders take **3-5 business days** to be delivered with standard free shipping, and international orders may take anywhere from**6-20 business days**_.
+_We will send you the different color or length hair extensions after we have received, inspected and confirmed that the returned hair extensions were not opened. It takes **1-2 business days **to process all orders from the moment we place it in our system. US orders take **3-5 business days** to be delivered with standard free shipping, and international orders may take anywhere from**6-20 business days**_.
 
 ### 6\. _**HAIR EXTENSIONS ARE NON-EXCHANGEABLE IF OPENED?**_
 
