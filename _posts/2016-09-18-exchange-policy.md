@@ -1,13 +1,13 @@
 ---
 title: EXCHANGE POLICY
-datePublished: '2016-11-05T23:44:38.450Z'
-dateModified: '2016-11-05T23:44:37.011Z'
+datePublished: '2016-11-16T14:50:25.270Z'
+dateModified: '2016-11-16T14:50:23.732Z'
 publisher: {}
 author: []
 inFeed: false
 hasPage: true
 description: >-
-  We are pleased to accommodate returns and exchanges within 30 days on all sets
+  We are pleased to accommodate returns and exchanges within 15 days on all sets
   that have not been opened, worn, or tampered with. Please e-mail us @
   goldenhairnation@gmail.com to initiate your exchange.
 via: {}
@@ -21,7 +21,7 @@ _type: Blurb
 
 ## **EXCHANGE POLICY**
 
-_We are pleased to accommodate returns and exchanges within**30 days** on all sets that have not been opened, worn, or tampered with. Please e-mail us @ **goldenhairnation@gmail.com** to initiate your exchange_.
+_We are pleased to accommodate returns and exchanges within**15 days** on all sets that have not been opened, worn, or tampered with. Please e-mail us @ **goldenhairnation@gmail.com** to initiate your exchange_.
 
 Here are some **FAQ** in regards to our exchange policy:
 
