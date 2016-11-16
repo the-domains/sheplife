@@ -1,7 +1,7 @@
 ---
 title: RETURN POLICY
-datePublished: '2016-11-16T17:37:50.009Z'
-dateModified: '2016-11-16T17:37:45.505Z'
+datePublished: '2016-11-16T17:48:23.895Z'
+dateModified: '2016-11-16T17:48:22.222Z'
 publisher: {}
 author: []
 inFeed: false
@@ -20,4 +20,4 @@ _type: Blurb
 
 _All sales are **FINAL**._
 
-_If you are not pleased e-mail us: **goldenhairnation@gmail.com** to initiate an **Exchange **within **15****days** of purchase, and we will be more than happy to assist you further_. _Our support team operates seven days a week,**24 hours **a day. We always guarantee a response within **24-48 hours**_.
+_If you are not pleased e-mail us: **goldenhairnation@gmail.com** to initiate an **Exchange **within **15 days** of purchase, and we will be more than happy to assist you further_. _Our support team operates seven days a week,**24 hours **a day. We always guarantee a response within **24-48 hours**_.
