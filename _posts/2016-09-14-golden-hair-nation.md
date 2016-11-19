@@ -1,8 +1,8 @@
 ---
 keywords: []
 title: ''
-datePublished: '2016-11-19T17:58:38.410Z'
-dateModified: '2016-11-19T17:58:36.674Z'
+datePublished: '2016-11-19T19:28:23.588Z'
+dateModified: '2016-11-19T19:28:05.731Z'
 publisher: {}
 author: []
 inFeed: false
@@ -17,8 +17,6 @@ url: hair-of-the-golden-sun/index.html
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e7423d27-afd0-4784-a632-bc4bc0e17185.jpg)
-
 > _**Exclusive Hair Line with Premium Quality Hair Extensions**_
 
 _We would like to state the one fact that we hold dearly to be truly the basis for our product..._
