@@ -1,8 +1,8 @@
 ---
 keywords: []
 title: ''
-datePublished: '2016-11-19T19:40:22.046Z'
-dateModified: '2016-11-19T19:40:20.617Z'
+datePublished: '2016-11-19T19:47:26.618Z'
+dateModified: '2016-11-19T19:47:22.680Z'
 publisher: {}
 author: []
 inFeed: false
@@ -36,6 +36,6 @@ _**HAIR of the GOLDEN SUN** was formed for the very existence of you. So let our
 
 ---
 
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e67e91d8-6652-45d8-84b1-be2f8e6a9ccc.jpg)
+
 
 [0]: http://store.goldenhairnation.com/
