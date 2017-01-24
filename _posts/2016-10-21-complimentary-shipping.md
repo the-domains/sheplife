@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-23T02:09:37.718Z'
+datePublished: '2017-01-24T16:22:19.530Z'
 sourcePath: _posts/2016-10-21-complimentary-shipping.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-23T02:09:37.299Z'
+dateModified: '2017-01-24T16:22:17.714Z'
 title: Complimentary Shipping
 publisher: {}
 description: >-
@@ -13,6 +13,7 @@ description: >-
   purchases over a $100.00 will be shipped free of charge. All other purchases
   will be charged a flat-rate for shipping and handling.
 starred: false
+datePublishedOriginal: '2016-10-23T02:09:37.718Z'
 url: complimentary-shipping/index.html
 _context: 'http://schema.org'
 _type: Article
