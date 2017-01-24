@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-01-24T16:22:44.656Z'
+datePublished: '2017-01-24T16:52:06.312Z'
 sourcePath: >-
   _posts/2016-10-09-golden-hair-nations-desire-is-to-provide-our-clients-with-t.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2017-01-24T16:22:43.845Z'
+dateModified: '2017-01-24T16:52:03.804Z'
 title: Our Mission
 publisher: {}
 description: ''
