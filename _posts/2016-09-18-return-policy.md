@@ -1,15 +1,16 @@
 ---
 title: RETURN POLICY
-datePublished: '2016-11-16T18:20:37.310Z'
-dateModified: '2016-11-16T18:20:31.290Z'
+datePublished: '2017-01-24T16:22:19.683Z'
+dateModified: '2017-01-24T16:22:17.714Z'
 publisher: {}
 author: []
 inFeed: false
 hasPage: true
 description: All sales are FINAL.
 via: {}
-starred: false
 sourcePath: _posts/2016-09-18-return-policy.md
+starred: false
+datePublishedOriginal: '2016-11-16T18:20:37.310Z'
 url: returnpolicy/index.html
 _type: Blurb
 
