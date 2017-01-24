@@ -12,8 +12,8 @@ keywords:
   - rfid
   - solid
 title: GALLERIA
-datePublished: '2017-01-24T16:22:19.370Z'
-dateModified: '2017-01-24T16:22:17.714Z'
+datePublished: '2017-01-24T16:22:35.807Z'
+dateModified: '2017-01-24T16:22:34.559Z'
 publisher:
   name: 3dcartstores
   domain: goldenhairnation-com.3dcartstores.com
