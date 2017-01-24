@@ -1,7 +1,7 @@
 ---
 title: EXCHANGE POLICY
-datePublished: '2017-01-24T16:23:02.662Z'
-dateModified: '2017-01-24T16:23:01.538Z'
+datePublished: '2017-01-24T16:52:05.344Z'
+dateModified: '2017-01-24T16:52:03.804Z'
 publisher: {}
 author: []
 inFeed: false
