@@ -1,7 +1,7 @@
 ---
 title: EXCHANGE POLICY
-datePublished: '2016-11-16T17:47:58.848Z'
-dateModified: '2016-11-16T17:47:52.380Z'
+datePublished: '2017-01-24T16:22:45.035Z'
+dateModified: '2017-01-24T16:22:43.845Z'
 publisher: {}
 author: []
 inFeed: false
@@ -10,8 +10,9 @@ description: >-
   We are pleased to accommodate Exchanges within 15 days on all sets that have
   not been opened, worn, or tampered with.
 via: {}
-starred: false
 sourcePath: _posts/2016-09-18-exchange-policy.md
+starred: false
+datePublishedOriginal: '2016-11-16T17:47:58.848Z'
 url: exchangepolicy/index.html
 _type: Blurb
 
