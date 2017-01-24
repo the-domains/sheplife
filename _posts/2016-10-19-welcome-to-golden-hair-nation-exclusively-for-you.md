@@ -12,8 +12,8 @@ keywords:
   - rfid
   - solid
 title: GALLERIA
-datePublished: '2016-11-15T16:03:49.533Z'
-dateModified: '2016-11-15T16:03:38.266Z'
+datePublished: '2017-01-24T16:22:19.370Z'
+dateModified: '2017-01-24T16:22:17.714Z'
 publisher:
   name: 3dcartstores
   domain: goldenhairnation-com.3dcartstores.com
@@ -23,8 +23,9 @@ inFeed: false
 hasPage: true
 description: ''
 via: {}
-starred: false
 sourcePath: _posts/2016-10-19-welcome-to-golden-hair-nation-exclusively-for-you.md
+starred: false
+datePublishedOriginal: '2016-11-15T16:03:49.533Z'
 url: welcome-to-golden-hair-nation-exclusively-for-you/index.html
 _type: MediaObject
 _context: 'http://schema.org'
