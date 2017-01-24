@@ -1,8 +1,8 @@
 ---
 keywords: []
 title: ''
-datePublished: '2016-11-19T19:47:26.618Z'
-dateModified: '2016-11-19T19:47:22.680Z'
+datePublished: '2017-01-24T16:22:19.309Z'
+dateModified: '2017-01-24T16:22:17.714Z'
 publisher: {}
 author: []
 inFeed: false
@@ -11,8 +11,9 @@ description: >-
   We would like to state the one fact that we hold dearly to be truly the basis
   for our product…
 via: {}
-starred: false
 sourcePath: _posts/2016-09-14-golden-hair-nation.md
+starred: false
+datePublishedOriginal: '2016-11-19T19:47:26.618Z'
 url: hair-of-the-golden-sun/index.html
 _type: MediaObject
 
