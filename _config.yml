@@ -27,8 +27,8 @@ color:
   rhythmicContrast: 0.2381896281149238
 purpose:
   - type: external
-    url: 'https://goldenhairnation-com.3dcartstores.com'
     label: GALLERIA
+    url: 'https://goldenhairnation-com.3dcartstores.com'
 title: Golden Hair Nation
 description: Rise of the Beautiful. Join the Revolution.
 author:
@@ -53,5 +53,5 @@ navigation:
   - name: ' AFFILIATE PROGRAM'
     id: bc7d04e4-abcb-4274-9b18-206ddbd7033e
     type: content
-github: true
 content: []
+github: true
